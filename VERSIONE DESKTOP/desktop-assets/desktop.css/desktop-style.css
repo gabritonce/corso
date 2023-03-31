@@ -33,6 +33,7 @@ h1 {
 
 #titolo {
     font-weight: 700;
+    padding-top: 4em;
 }
 
 .h3-special {
@@ -125,16 +126,22 @@ h1 {
 #testi-main2 {
     margin: 0;
     padding: 0;
+    float: right;
 }
 
 #image-main {
-    width: 20%;
-    
+margin: 0;
+padding: 0;
+text-align: center;
+padding-right: 10em;
+padding-top: 5em;
 }
 
 #image-main2 {
     border-radius: 50%;
     padding-top: 10px;
+    width: 20%;
+    
 }
 
 
@@ -170,7 +177,7 @@ h1 {
     margin: 0.5em;
 }
 
-#card {
+.card {
     border: 1.5px solid #dee1e3;
     box-sizing: border-box;
     margin: 1.5em;

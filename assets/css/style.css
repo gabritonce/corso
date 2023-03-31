@@ -167,7 +167,7 @@ h1 {
     margin: 0.5em;
 }
 
-#card {
+.card {
     border: 1.5px solid #dee1e3;
     box-sizing: border-box;
     margin: 1.5em;
