@@ -20,15 +20,19 @@ h4 {
     line-height: 1.5em;
 }
 
+/*HEADER*/
+
 h1 {
     padding: 0px;
     margin: 0px;
     padding-top: 70px;
     line-height: 1;
 }
-#titolo{
+
+#titolo {
     font-weight: 700;
 }
+
 .h3-special {
     padding-top: 40px;
     margin-bottom: 0;
@@ -99,6 +103,8 @@ h1 {
 
 
 }
+
+/*MAIN*/
 
 .paragrafo-main {
     font-weight: 400;
@@ -182,6 +188,8 @@ h1 {
     font-size: 300;
 
 }
+
+/*FOOTER*/
 
 #footer {
     background-color: #25a2c3;
