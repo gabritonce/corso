@@ -1,0 +1,263 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&display=swap');
+
+body {
+    margin: 0px;
+    padding: 0px;
+    font-size: 1.2rem;
+    font-family: 'Open Sans', sans-serif;
+    line-height: 1.65em;
+    width: 100%;
+}
+
+h1,
+h2,
+h3,
+h4 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    color: #25a2c3;
+    line-height: 1.5em;
+}
+
+/*HEADER*/
+
+h1 {
+    padding: 0px;
+    margin: 0px;
+    padding-top: 70px;
+    line-height: 1;
+}
+#imagine-logo{
+    text-align: left;
+}
+
+#titolo {
+    font-weight: 700;
+}
+
+.h3-special {
+    padding-top: 40px;
+    margin-bottom: 0;
+}
+
+.h3-special2 {
+    padding-top: 20px;
+    margin-bottom: 0;
+}
+
+.h3-special1 {
+    padding-top: 20px;
+    margin-bottom: 0;
+}
+
+#h2-special {
+    color: white;
+    padding-top: 0px;
+    font-size: 35px;
+}
+
+#background-head {
+    background-color: black;
+    padding: 1em;
+}
+
+#background-image {
+    background-image: url(../img2/banner\ copy.jpg);
+    width: 100%;
+    height: 70vh;
+    background-position: top;
+    background-size: cover;
+    padding: 0%;
+    margin: 0;
+    text-align: center;
+}
+
+#paragrafo-heading {
+    font-weight: 300;
+    font-size: 1.2em;
+    line-height: 1.7;
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+.partiamo {
+    color: white;
+}
+
+.partiamo p {
+    margin: 0;
+
+}
+
+#fake-buttom {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border: 2px solid #f04c2f;
+    border-radius: 7px;
+    width: 30%;
+    margin: auto;
+    font-weight: bold;
+    background-color: #f04c2f;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    
+
+}
+
+/*MAIN*/
+
+.paragrafo-main {
+   
+    font-weight: 400;
+    margin-top: 4px;
+    padding-top: 4px;
+}
+
+.paragrafo-main1 {
+    font-weight: 400;
+    margin-top: 4px;
+    padding-top: 4px;
+    padding-bottom: 40px;
+}
+
+
+#testi-main2 {
+    margin: 0;
+    padding: 0;
+}
+
+#image-main {
+    width: 20%;
+    
+}
+
+#image-main2 {
+    border-radius: 50%;
+    padding-top: 10px;
+}
+
+
+#main-orange {
+    background-color: #e22d0e;
+    ;
+    margin-bottom: 60px;
+    text-align: center;
+}
+
+#citazione-mario {
+    color: white;
+    margin-bottom: 2px;
+    padding-bottom: 1em;
+}
+
+#colore-mario {
+    color: white;
+}
+
+#mario-rossi {
+    margin-bottom: 0;
+}
+
+#ceo {
+    margin-top: 0;
+    line-height: 1.5;
+    font-size: 15px;
+}
+
+.immagine-card {
+    padding: 15px;
+    margin: 0.5em;
+}
+
+#card {
+    border: 1.5px solid #dee1e3;
+    box-sizing: border-box;
+    margin: 1.5em;
+    margin-bottom: 2em;
+    margin-top: 2em;
+
+}
+
+#il-tuo-pc {
+    font-size: 20px;
+
+
+}
+
+#sottotesto-card {
+    padding-bottom: 4em;
+    margin-bottom: 4em;
+    font-size: 300;
+
+}
+
+/*FOOTER*/
+
+#footer {
+    background-color: #25a2c3;
+    margin-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    text-align: center;
+}
+
+#footer a,
+address {
+    color: #c8e7f0;
+    padding-bottom: 1em;
+}
+
+#footer h1 {
+    color: white;
+}
+
+hr {
+    width: 50%;
+    color: white;
+}
+
+#copy {
+    color: white;
+    font-weight: 300;
+    padding-top: 1em;
+}
+
+#Contattaci {
+
+    margin-bottom: 2em;
+}
+
+.fa-phone {
+    background-color: white;
+    color: #25a2c3;
+    border-radius: 3px;
+    padding: 2px;
+    font-size: medium;
+
+}
+
+.fa-envelope {
+    background-color: white;
+    color: #25a2c3;
+    border-radius: 3px;
+    padding: 2px;
+
+    font-size: medium;
+
+}
+
+.fa-arrow-up-right-from-square {
+    background-color: white;
+    color: #25a2c3;
+    border-radius: 3px;
+    padding: 2px;
+
+    font-size: medium;
+
+}
+
+#adress-div {
+    padding: 0;
+    margin: 0;
+}
