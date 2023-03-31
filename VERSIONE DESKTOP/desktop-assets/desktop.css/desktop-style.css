@@ -27,7 +27,8 @@ h1 {
     padding-top: 70px;
     line-height: 1;
 }
-#imagine-logo{
+
+#imagine-logo {
     text-align: left;
 }
 
@@ -102,14 +103,14 @@ h1 {
     color: white;
     font-family: 'Montserrat', sans-serif;
     font-weight: 600;
-    
+
 
 }
 
 /*MAIN*/
 
 .paragrafo-main {
-   
+
     font-weight: 400;
     margin-top: 4px;
     padding-top: 4px;
@@ -130,19 +131,20 @@ h1 {
 }
 
 #image-main {
-margin: 0;
-padding: 0;
-text-align: center;
-padding-right: 10em;
-padding-top: 5em;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    padding-right: 10em;
+    padding-top: 5em;
 }
 
 #image-main2 {
     border-radius: 50%;
     padding-top: 10px;
     width: 20%;
-    
+
 }
+
 
 
 #main-orange {
@@ -177,16 +179,22 @@ padding-top: 5em;
     margin: 0.5em;
 }
 
+#section-main {
+    width: 50%;
+}
+
 .card {
     border: 1.5px solid #dee1e3;
     box-sizing: border-box;
     margin: 1.5em;
     margin-bottom: 2em;
     margin-top: 2em;
+    box-sizing: border-box;
+    width: 50%;
 
 }
 
-#il-tuo-pc {
+.il-tuo-pc {
     font-size: 20px;
 
 
