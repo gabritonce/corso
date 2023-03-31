@@ -177,12 +177,16 @@ h1 {
     padding: 15px;
     margin: 0.5em;
 }
+#section-main{
+   
+}
 .card {
     border: 1.5px solid #dee1e3;
     margin: 1.5em;
     margin-bottom: 2em;
     margin-top: 2em;
     text-align: center;
+    display: inline-block;
    }
 
 .il-tuo-pc {
